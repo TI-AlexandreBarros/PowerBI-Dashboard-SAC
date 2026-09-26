@@ -18,7 +18,7 @@ Praticar a construção de um dashboard no Power BI, trabalhando conceitos como:
 * Análise de informações de atendimento
 * Construção de um dashboard orientado a indicadores
 
-## 📌 Indicadores
+## 📌 - Indicadores
 
 O dashboard apresenta indicadores relacionados ao atendimento, incluindo:
 
