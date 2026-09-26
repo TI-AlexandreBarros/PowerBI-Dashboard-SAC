@@ -17,16 +17,39 @@ Praticar a construção de um dashboard no Power BI, trabalhando conceitos como:
 * Visualização de dados
 * Análise de informações de atendimento
 * Construção de um dashboard orientado a indicadores
+* Organização e apresentação de um projeto para portfólio
 
-## 📌 Indicadores
+## 📌 Indicadores do Dashboard
 
-O dashboard apresenta indicadores relacionados ao atendimento, incluindo:
+O dashboard apresenta cinco indicadores principais relacionados ao atendimento do SAC:
 
-* Total de chamadas
-* Chamadas atendidas
-* Chamadas não atendidas
-* Chamadas transferidas
-* Outros indicadores de atendimento
+| Indicador                         | Descrição                                                          |
+| --------------------------------- | ------------------------------------------------------------------ |
+| **Total de Chamados**             | Quantidade total de chamados registrados.                          |
+| **Tempo médio de retorno (dias)** | Média de tempo para retorno dos chamados, expressa em dias.        |
+| **Média atendimento (min)**       | Tempo médio de atendimento dos chamados, em minutos.               |
+| **Média diária de chamadas**      | Média de chamados registrados por dia.                             |
+| **% cancelados**                  | Percentual de chamados cancelados em relação ao total de chamados. |
+
+## 📈 Análises apresentadas
+
+Além dos indicadores, o dashboard apresenta quatro visualizações para análise dos chamados:
+
+### 1. Total de Chamados por Ano e Mês
+
+Permite acompanhar a evolução do volume de chamados ao longo do tempo, possibilitando identificar períodos de maior ou menor volume de atendimento.
+
+### 2. Total de Chamados por Problemas
+
+Apresenta a quantidade de chamados de acordo com os problemas registrados, permitindo visualizar quais tipos de ocorrência possuem maior volume.
+
+### 3. Tempo Médio de Atendimento (min) por Ano e Mês
+
+Apresenta a evolução do tempo médio de atendimento ao longo dos meses, permitindo acompanhar o comportamento desse indicador durante o período analisado.
+
+### 4. Total de Chamados por Nome do Atendente
+
+Apresenta o volume de chamados associado a cada atendente, permitindo visualizar a distribuição dos chamados entre os profissionais.
 
 ## 📈 Dashboard
 
@@ -67,7 +90,7 @@ O arquivo `.pbix` utilizado na construção do dashboard está disponível na pa
 
 **Arquivo:** `Projeto Treino - Dashboard SAC.pbix`
 
-Ele permite consultar a estrutura e os recursos utilizados no desenvolvimento do dashboard durante o treinamento prático.
+O arquivo permite consultar a estrutura, as medidas e os recursos utilizados no desenvolvimento do dashboard durante o treinamento prático.
 
 ## 🗃️ Fonte dos dados
 
