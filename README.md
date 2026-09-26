@@ -30,7 +30,13 @@ O dashboard apresenta indicadores relacionados ao atendimento, incluindo:
 
 ## 📈 Dashboard
 
-![Dashboard SAC](Dashboard/dashboard-sac.png)
+![Dashboard SAC](Dashboard/Dashboard%20SAC%20-%20Geral.png)
+
+## 🗂️ Modelo de Dados
+
+O projeto também apresenta o modelo de dados utilizado para estruturar as informações e os relacionamentos entre as tabelas.
+
+![Modelo de Dados](Modelo_Dados/Dashboard%20SAC%20-%20Rela%C3%A7%C3%A3o%20das%20Tabelas.png)
 
 ## 🛠️ Ferramentas utilizadas
 
@@ -38,7 +44,32 @@ O dashboard apresenta indicadores relacionados ao atendimento, incluindo:
 * **Power Query**
 * **DAX**
 
-## 🗂️ Fonte dos dados
+## 📁 Estrutura do projeto
+
+```text
+PowerBI-Dashboard-SAC/
+│
+├── Dashboard/
+│   └── Dashboard SAC - Geral.png
+│
+├── Modelo_Dados/
+│   └── Dashboard SAC - Relação das Tabelas.png
+│
+├── PowerBI/
+│   └── Projeto Treino - Dashboard SAC.pbix
+│
+└── README.md
+```
+
+## 📂 Arquivo do projeto
+
+O arquivo `.pbix` utilizado na construção do dashboard está disponível na pasta **PowerBI**.
+
+**Arquivo:** `Projeto Treino - Dashboard SAC.pbix`
+
+Ele permite consultar a estrutura e os recursos utilizados no desenvolvimento do dashboard durante o treinamento prático.
+
+## 🗃️ Fonte dos dados
 
 Os dados utilizados neste projeto são provenientes da **Base SAC disponibilizada pela Hashtag Treinamentos**.
 
